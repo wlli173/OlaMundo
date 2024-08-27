@@ -1,6 +1,6 @@
 # OlaMundo
 Ropositório HelloWord!
-**Exemplo php**
+**\nExemplo em php**
 ~~~php
 <?php 
 
@@ -8,7 +8,7 @@ Ropositório HelloWord!
 
 ?>
 ~~~
-**Exemplo java**
+**Exemplo em java**
 ~~~java
 public class Ola {
     public static void main(String[] args) {
