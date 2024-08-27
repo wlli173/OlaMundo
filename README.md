@@ -1,6 +1,6 @@
 # OlaMundo
 Ropositório HelloWord!
-**\nExemplo em php**
+**Exemplo em php**
 ~~~php
 <?php 
 
